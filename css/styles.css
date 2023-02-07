@@ -47,7 +47,8 @@ body {
 /* Todos los parrafos de cada pagina llevan un estilo */
 .parrafo-inicios p {
   margin: 5px;
-  padding: 5px; }
+  padding: 5px;
+  text-align: center; }
 
 /* Galeria */
 #galeria .col-lg-4 {
